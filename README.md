@@ -46,7 +46,7 @@ A **real-time multi-object tracking** and **analytics dashboard** using:
 ## 📦 Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/object_tracking_dashboard.git
+git clone https://github.com/VenerableBrute/object_tracking_dashboard.git
 cd object_tracking_dashboard
 
 # Create a virtual environment (recommended)
