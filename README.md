@@ -26,7 +26,7 @@ A **real-time multi-object tracking** and **analytics dashboard** using:
 
 ## 📸 Demo
 **Tracking Video (YOLOv8 + DeepSORT)**
-![Tracking Demo](output/sample_tracking.gif)
+![Tracking Demo](output_processed.gif)
 
 **Heatmap Example**
 ![Heatmap Example](heatmap.png)
