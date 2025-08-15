@@ -29,7 +29,7 @@ A **real-time multi-object tracking** and **analytics dashboard** using:
 ![Tracking Demo](output/sample_tracking.gif)
 
 **Heatmap Example**
-![Heatmap Example](output/heatmap.png)
+![Heatmap Example](heatmap.png)
 
 ---
 
