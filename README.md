@@ -46,8 +46,8 @@ A **real-time multi-object tracking** and **analytics dashboard** using:
 ## 📦 Installation
 ```bash
 # Clone repository
-git clone https://github.com/VenerableBrute/object_tracking_dashboard.git
-cd object_tracking_dashboard
+git clone https://github.com/VenerableBrute/cv-multi-object-tracking.git
+cd cv-multi-object-tracking
 
 # Create a virtual environment (recommended)
 conda create -n tracking python=3.10 -y
