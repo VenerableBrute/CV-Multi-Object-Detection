@@ -1,0 +1,31 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+*.env
+
+# Ignore videos and large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore outputs
+output/
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log

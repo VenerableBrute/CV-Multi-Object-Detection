@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+opencv-python
+streamlit
+supervision
+lap
+filterpy
+matplotlib
+numpy
+pandas
+pillow
+deep-sort-realtime
